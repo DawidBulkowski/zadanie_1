@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="26dp"
+    tools:context=".AkceptacjaFormularza">
+
+    <TextView
+        android:id="@+id/name_accept_form"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/name"
+        android:textSize="26sp" />
+
+
+    <TextView
+        android:id="@+id/surname_accept_form"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/surname"
+        android:textSize="26dp" />
+
+
+    <TextView
+        android:id="@+id/sex_accept_form"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/sex"
+        android:textSize="26dp" />
+
+
+    <TextView
+        android:id="@+id/color_accept_form"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/color"
+        android:textSize="26dp" />
+
+
+    <TextView
+        android:id="@+id/language_accept_form"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/textOn"
+        android:textSize="26dp" />
+
+    <TextView
+        android:id="@+id/birthday_accept_form"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:textSize="26dp" />
+
+
+    <Button
+        android:id="@+id/show_time_log"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:text="@string/log_list" />
+
+</LinearLayout>

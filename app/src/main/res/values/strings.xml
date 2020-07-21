@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">zadanie_1</string>
+    <string name="form">Wypełnij formularz:</string>
+    <string name="name">Jan</string>
+    <string name="surname">Kowalski</string>
+    <string name="age">Wiek</string>
+    <string name="sex">Płeć:</string>
+    <string name="sex_male">Mężczyzna</string>
+    <string name="sex_female">Kobieta</string>
+    <string name="another">Inna</string>
+    <string name="send_form">Prześlij formularz</string>
+    <string name="pick_date">Data urodzenia</string>
+    <string name="birthday_date">01.01.0001</string>
+    <string name="textOn">Java</string>
+    <string name="textOff">Kotlin</string>
+    <string name="checkingForm">Sprawdź, wprowadzone dane przed dokończeniem rejestracji</string>
+    <string name="edit_button">Edytuj dane</string>
+    <string name="log_list">Cykl życia aplikacji</string>
+
+    <string name="color">Wybierz ulubiony kolor</string>
+</resources>
